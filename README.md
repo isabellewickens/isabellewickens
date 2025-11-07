@@ -1,7 +1,7 @@
 # Hey, I'm Izzy 👋
 
-🎓 **Computer Science Student @ University of Surrey**  
-⚡ **Open to placements, internships & other opportunities**
+🎓 **Computer Science Student @ University of Surrey.**  
+⚡ **Open to placements, internships & other opportunities.**
 
 ---
 
